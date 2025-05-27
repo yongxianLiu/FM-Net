@@ -38,7 +38,7 @@ python test.py
 
 
 ## Acknowledgement
-**Thanks for [DNANet](https://github.com/YeRen123455/Infrared-Small-Target-Detection) and [BasicIRSTD](https://github.com/XinyiYing/BasicIRSTD).**
+**Thanks for [SCTrransNet](https://github.com/xdFai/SCTransNet) and [BasicIRSTD](https://github.com/XinyiYing/BasicIRSTD).**
 <br><br>
 
 ## Contact
