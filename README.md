@@ -5,7 +5,7 @@ Pytorch implementation of our FM-Net
 
 ## Requirements
 - Python 3.12
-- pytorch 1.10.1, torchvision 0.11.2, torchaudio 0.10.1, Cuda 11.1 or higher
+- torch==2.3.0, torchvision==0.18.0, torchviz=0.0.3, Cuda 12.1
 - ml_collections==1.1.0
 - pytorch-wavelets==1.3.0
 - torch-dct==0.1.6
