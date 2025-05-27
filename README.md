@@ -38,7 +38,7 @@ python test.py
 
 
 ## Acknowledgement
-**Thanks for [SCTrransNet](https://github.com/xdFai/SCTransNet) and [BasicIRSTD](https://github.com/XinyiYing/BasicIRSTD).**
+**Thanks for [SCTransNet](https://github.com/xdFai/SCTransNet) and [BasicIRSTD](https://github.com/XinyiYing/BasicIRSTD).**
 <br><br>
 
 ## Contact
