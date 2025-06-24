@@ -72,7 +72,8 @@ Pytorch implementation of our FM-Net
   ├──./results/
   │    ├── [dataset_name]
   │    │    ├── [model_name]
-  |    |    |    |—— [].png
+  |    |    |    |—— xxxxx.png
+  |    |    |    |—— xxxxx.png
   ```
 <be>
 
