@@ -52,7 +52,7 @@ Pytorch implementation of our FM-Net
 ## Train
 * **Run **`train.py`** to perform network training. Example for training [model_name] on [dataset_name] datasets:**
   ```
-  $ python train.py --model_names FM-Net --dataset_names IRSTD-1K
+  python train.py --model_names FM-Net --dataset_names IRSTD-1K
   ```
 * **Checkpoints and Logs will be saved to **`./log/`**:**
   ```
@@ -63,9 +63,10 @@ Pytorch implementation of our FM-Net
 <be>
 
 ## Test
-```bash
-python test.py
-```
+* **Run **`test.py`** to perform network inference and evaluation. Example for test [model_name] on [dataset_name] datasets:**
+  ```
+  python test.py --model_names FM-Net --dataset_names IRSTD-1K
+  ```
 <br>
 
 ## Citiation
