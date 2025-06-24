@@ -21,30 +21,30 @@ Pytorch implementation of our FM-Net
 * **Our project has the following structure:**
   ```
   ├──./datasets/
-  │    ├── SIRST-v1
+  │    ├── IRSTD-1K
   │    │    ├── images
-  │    │    │    ├── XDU0.png
-  │    │    │    ├── XDU1.png
-  │    │    │    ├── ...
-  │    │    ├── masks
   │    │    │    ├── XDU0.png
   │    │    │    ├── XDU1.png
   │    │    │    ├── ...
   │    │    ├── img_idx
-  │    │    │    ├── train_SIRST-v1.txt
-  │    │    │    ├── test_SIRST-v1.txt
+  │    │    │    ├── train_IRSTD-1K.txt
+  │    │    │    ├── test_IRSTD-1K.txt
+  │    │    ├── masks
+  │    │    │    ├── XDU0.png
+  │    │    │    ├── XDU1.png
+  │    │    │    ├── ...
   │    ├── NUDT-SIRST
   │    │    ├── images
-  │    │    │    ├── 000001.png
-  │    │    │    ├── 000002.png
-  │    │    │    ├── ...
-  │    │    ├── masks
   │    │    │    ├── 000001.png
   │    │    │    ├── 000002.png
   │    │    │    ├── ...
   │    │    ├── img_idx
   │    │    │    ├── train_NUDT-SIRST.txt
   │    │    │    ├── test_NUDT-SIRST.txt
+  │    │    ├── masks
+  │    │    │    ├── 000001.png
+  │    │    │    ├── 000002.png
+  │    │    │    ├── ...
   │    ├── ...  
   ```
 <be>
