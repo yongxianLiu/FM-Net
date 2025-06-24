@@ -50,9 +50,9 @@ Pytorch implementation of our FM-Net
 <be>
 
 ## Train
-* **Run **`train.py`** to perform network training in single GPU and multiple GPUs. Example for training [model_name] on [dataset_name] datasets:**
+* **Run **`train.py`** to perform network training. Example for training [model_name] on [dataset_name] datasets:**
   ```
-  $ python train.py --model_names ACM ALCNet --dataset_names SIRST-v1
+  $ python train.py --model_names FM-Net --dataset_names IRSTD-1K
   ```
 <br>
 
