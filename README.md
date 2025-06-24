@@ -58,7 +58,7 @@ Pytorch implementation of our FM-Net
   ```
   ├──./log/
   │    ├── [dataset_name]
-  │    │    ├── [model_name]_eopch400.pth.tar
+  │    │    ├── [model_name]_xxxxx.pth.tar
   ```
 <be>
 
