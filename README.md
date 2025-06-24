@@ -18,6 +18,37 @@ Pytorch implementation of our FM-Net
 * IRSTD-1K &nbsp; [[download dir]](https://github.com/RuiZhang97/ISNet) &nbsp; [[paper]](https://ieeexplore.ieee.org/document/9880295)
 * NUDT-SIRST &nbsp; [[download dir]](https://github.com/YeRen123455/Infrared-Small-Target-Detection) &nbsp; [[paper]](https://ieeexplore.ieee.org/document/9864119)
 
+* **Our project has the following structure:**
+  ```
+  ├──./datasets/
+  │    ├── SIRST-v1
+  │    │    ├── images
+  │    │    │    ├── XDU0.png
+  │    │    │    ├── XDU1.png
+  │    │    │    ├── ...
+  │    │    ├── masks
+  │    │    │    ├── XDU0.png
+  │    │    │    ├── XDU1.png
+  │    │    │    ├── ...
+  │    │    ├── img_idx
+  │    │    │    ├── train_SIRST-v1.txt
+  │    │    │    ├── test_SIRST-v1.txt
+  │    ├── NUDT-SIRST
+  │    │    ├── images
+  │    │    │    ├── 000001.png
+  │    │    │    ├── 000002.png
+  │    │    │    ├── ...
+  │    │    ├── masks
+  │    │    │    ├── 000001.png
+  │    │    │    ├── 000002.png
+  │    │    │    ├── ...
+  │    │    ├── img_idx
+  │    │    │    ├── train_NUDT-SIRST.txt
+  │    │    │    ├── test_NUDT-SIRST.txt
+  │    ├── ...  
+  ```
+<be>
+
 ## Train
 ```bash
 python train.py
