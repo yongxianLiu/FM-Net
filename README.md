@@ -65,9 +65,16 @@ Pytorch implementation of our FM-Net
 ## Test
 * **Run **`test.py`** to perform network inference and evaluation. Example for test [model_name] on [dataset_name] datasets:**
   ```
-  python test.py --model_names FM-Net --dataset_names IRSTD-1K
+  python test.py --model_names FM-Net --dataset_names IRSTD-1K ----save_img True
   ```
-<br>
+* ** Predicted pictures will be saved to **`./results/`**, Pd and Fa will be saved to **`./test_ROC/`**:**
+  ```
+  ├──./results/
+  │    ├── [dataset_name]
+  │    │    ├── [model_name]
+  |    |    |    |—— [].png
+  ```
+<be>
 
 ## Citiation
 ```
