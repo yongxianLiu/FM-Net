@@ -54,7 +54,13 @@ Pytorch implementation of our FM-Net
   ```
   $ python train.py --model_names FM-Net --dataset_names IRSTD-1K
   ```
-<br>
+* **Checkpoints and Logs will be saved to **`./log/`**:**
+  ```
+  ├──./log/
+  │    ├── [dataset_name]
+  │    │    ├── [model_name]_eopch400.pth.tar
+  ```
+<be>
 
 ## Test
 ```bash
