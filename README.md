@@ -78,6 +78,7 @@ Pytorch implementation of our "FM-Net: Frequency-Aware Masked-Attention for Infr
 <be>
 
 ## Model
+![Image text](https://github.com/yongxianLiu/FM-Net/blob/main/Fig/network.png)
 
 ## Results
 
