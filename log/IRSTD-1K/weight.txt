@@ -1,0 +1,2 @@
+xxxxxx.pth.tar
+Weight files obtained from training.
