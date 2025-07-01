@@ -89,7 +89,7 @@ Pytorch implementation of our FM-Net
 
 
 ## Acknowledgement
-**Thanks for [SCTransNet](https://github.com/xdFai/SCTransNet) and [BasicIRSTD](https://github.com/XinyiYing/BasicIRSTD).**
+**Thanks for [SCTransNet](https://github.com/xdFai/SCTransNet), [BasicIRSTD](https://github.com/XinyiYing/BasicIRSTD), [WTAPNet](https://github.com/MinjieWan/WTAPNet).**
 <br><br>
 
 ## Contact
