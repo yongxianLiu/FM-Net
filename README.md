@@ -116,7 +116,7 @@ DOI = {10.3390/rs17132264}
 
 
 ## Acknowledgement
-**Thanks for [SCTransNet](https://github.com/xdFai/SCTransNet), [BasicIRSTD](https://github.com/XinyiYing/BasicIRSTD), [WTAPNet](https://github.com/MinjieWan/WTAPNet).**
+**Thanks for [SCTransNet](https://github.com/xdFai/SCTransNet), [BasicIRSTD](https://github.com/XinyiYing/BasicIRSTD), [WTAPNet](https://github.com/MinjieWan/WTAPNet), [FSNet](https://github.com/c-yn/FSNet).**
 <br><br>
 
 ## Contact
