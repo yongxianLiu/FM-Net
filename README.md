@@ -89,6 +89,8 @@ Pytorch implementation of our "FM-Net: Frequency-Aware Masked-Attention for Infr
 | NUDT-SIRST    | 94.76  | 99.15 | 1.838 |
 | [[Weights]](https://pan.baidu.com/s/1QPzmKhNAMcwGVLiRvJvqjw?pwd=jqfb)|
 
+![Image text](https://github.com/yongxianLiu/FM-Net/blob/main/Fig/vision2d.png)
+
 
 ## Citiation
 ```
