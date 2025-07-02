@@ -1,6 +1,6 @@
 # Frequency-Aware Masked-Attention for Infrared Small Target Detection
 
-Pytorch implementation of our "FM-Net: Frequency-Aware Masked-Attention for Infrared Small Target Detection". [[Paper]](https://www.mdpi.com/2072-4292/17/13/2264)
+Pytorch implementation of our "FM-Net: Frequency-Aware Masked-Attention for Infrared Small Target Detection (Remote Sensing 2025)". [[Paper]](https://www.mdpi.com/2072-4292/17/13/2264)
 
 
 ## Requirements
