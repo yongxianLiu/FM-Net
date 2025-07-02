@@ -82,6 +82,7 @@ Pytorch implementation of our "FM-Net: Frequency-Aware Masked-Attention for Infr
 
 ## Results
 
+### Qualitative Results
 | Model         | mIoU (x10(-2)) | Pd (x10(-2))|  Fa (x10(-6))|
 | ------------- |:-------------:|:-----:|:-----:|
 | IRSTD-1K      | 68.13  | 95.62 | 8.085 |
@@ -89,6 +90,7 @@ Pytorch implementation of our "FM-Net: Frequency-Aware Masked-Attention for Infr
 | NUDT-SIRST    | 94.76  | 99.15 | 1.838 |
 | [[Weights]](https://pan.baidu.com/s/1QPzmKhNAMcwGVLiRvJvqjw?pwd=jqfb)|
 
+### Quantitative Results
 ![Image text](https://github.com/yongxianLiu/FM-Net/blob/main/Fig/vision2d.png)
 
 
