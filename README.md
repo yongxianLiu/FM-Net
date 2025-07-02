@@ -77,6 +77,9 @@ Pytorch implementation of our "FM-Net: Frequency-Aware Masked-Attention for Infr
   ```
 <be>
 
+## Abstract
+Infrared small target detection (IRSTD) aims to locate and separate targets from complex background. The challenges in IRSTD primarily come from extremely sparse target features and strong background clutter interference. However, existing methods typically perform discrimination directly on the features extracted by deep networks, neglecting the distinct characteristics of weak and small targets in the frequency domain, thereby limiting the improvement of detection capability. In this paper, we propose a frequency-aware masked-attention network (FM-Net) that leverages multi-scale frequency clues to assist in representing global context and suppressing noise interference. Specifically, we design the wavelet residual block (WRB) to extract multi-scale spatial and frequency features, which introduces a wavelet pyramid as the intermediate layer of the residual block. Then, to perceive global information on the long-range skip connections, a frequency-modulation masked-attention module (FMM) is used to interact multi-layer features from encoder. FMM contains two crucial elements: (a) a mask attention (MA) mechanism for injecting broad contextual feature efficiently to promote full-level semantic correlation and focus on salient regions, and (b) a channel-wise frequency modulation module (CFM) for enhancing the most informative frequency components and suppressing useless ones. Extensive experiments on three benchmark datasets (e.g. SIRST, NUDT-SIRST, IRSTD-1k) demonstrate that FM-Net achieves superior detection performance.
+
 ## Model
 ![Image text](https://github.com/yongxianLiu/FM-Net/blob/main/Fig/network.png)
 
