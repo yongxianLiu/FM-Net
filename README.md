@@ -99,17 +99,12 @@ Infrared small target detection (IRSTD) aims to locate and separate targets from
 
 ## Citiation
 ```
-@Article{rs17132264,
-AUTHOR = {Liu, Yongxian and Lin, Zaiping and Li, Boyang and Liu, Ting and An, Wei},
-TITLE = {FM-Net: Frequency-Aware Masked-Attention Network for Infrared Small Target Detection},
-JOURNAL = {Remote Sensing},
-VOLUME = {17},
-YEAR = {2025},
-NUMBER = {13},
-ARTICLE-NUMBER = {2264},
-URL = {https://www.mdpi.com/2072-4292/17/13/2264},
-ISSN = {2072-4292},
-DOI = {10.3390/rs17132264}
+@article{liu2025fm,
+  title={FM-Net: Frequency-Aware Masked-Attention Network for Infrared Small Target Detection},
+  author={Liu, Yongxian and Lin, Zaiping and Li, Boyang and Liu, Ting and An, Wei},
+  journal={Remote Sensing},
+  year={2025},
+  publisher={Multidisciplinary Digital Publishing Institute}
 }
 ```
 <br>
