@@ -86,7 +86,7 @@ Infrared small target detection (IRSTD) aims to locate and separate targets from
 ## Results
 
 #### Quantitative Results
-| Model         | mIoU (x10(-2)) | Pd (x10(-2))|  Fa (x10(-6))|
+| Dataset         | mIoU (x10(-2)) | Pd (x10(-2))|  Fa (x10(-6))|
 | ------------- |:-------------:|:-----:|:-----:|
 | IRSTD-1K      | 68.13  | 95.62 | 8.085 |
 | SIRST         | 76.75  | 96.96 | 15.710|
