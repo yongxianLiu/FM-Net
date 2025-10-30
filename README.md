@@ -104,8 +104,12 @@ Infrared small target detection (IRSTD) aims to locate and separate targets from
   author={Liu, Yongxian and Lin, Zaiping and Li, Boyang and Liu, Ting and An, Wei},
   journal={Remote Sensing},
   year={2025},
-  publisher={Multidisciplinary Digital Publishing Institute}
+  volume={17},
+  number={13},
+  publisher={Multidisciplinary Digital Publishing Institute},
+  DOI = {10.3390/rs17132264},
 }
+
 ```
 <br>
 
